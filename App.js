@@ -58,6 +58,7 @@ const App = () => {
               py={1}
               _dark={{ bg: "blueGray.800" }}
               _light={{ bg: "blueGray.200" }}
+              // _text={{color:"coolGray.900"}}
             >
               App.js
             </Box>
